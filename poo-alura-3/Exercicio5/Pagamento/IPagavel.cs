@@ -1,0 +1,4 @@
+interface IPagavel
+{
+    double CalcularPagamento();
+}

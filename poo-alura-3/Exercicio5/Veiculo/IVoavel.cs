@@ -1,0 +1,4 @@
+interface IVoavel
+{
+    void Voar();
+}
